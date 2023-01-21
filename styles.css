@@ -255,11 +255,12 @@
   font-size: 15px !important;
   position: relative;
   left: 78px;
-  top: 10px;
+  top: 25px;
 }
 .copyright{
     position: relative;
     left: 28px;
+    top: 35px;
     font-size: 14px;
 
 }
