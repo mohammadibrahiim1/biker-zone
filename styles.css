@@ -69,6 +69,11 @@
 
 /* featured-bike-section-style */
 
+.featured-bike-sectio{
+  width: 1140px;
+  height: 243px;
+}
+
 .featured-bike-heading {
   text-align: center;
   margin-top: 150px;
@@ -283,25 +288,23 @@
 .question-title span {
   color: #e76f51;
 }
-.question-img img{
+.question-img img {
   width: 446px;
-  height: 495px ;
+  height: 495px;
 }
-.accordion{
+.accordion {
   width: 552px;
   height: 495px;
   margin-top: 30px;
 }
 
-.question-accordion-container{
+.question-accordion-container {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   gap: 80px;
   position: relative;
   left: 425px;
-
   align-items: center;
   margin-top: 150px;
-
 }
