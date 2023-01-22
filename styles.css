@@ -290,16 +290,16 @@
 .accordion{
   width: 552px;
   height: 495px;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .question-accordion-container{
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  gap: 50px;
+  gap: 80px;
   position: relative;
-  left: 430px;
+  left: 425px;
 
   align-items: center;
   margin-top: 150px;
